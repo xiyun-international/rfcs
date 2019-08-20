@@ -15,8 +15,8 @@
 {
   "blockConfig": {
     "blocks": {
-      "BlockA": "http://https://github.com/xiyun-international/template/block/B",
-      "BlockB": "http://https://github.com/xiyun-international/template/block/B",
+      "BlockA": "https://github.com/xiyun-international/template/block/B",
+      "BlockB": "https://github.com/xiyun-international/template/block/B",
     },
   }
 }
