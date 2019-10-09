@@ -25,7 +25,7 @@
     // 区块截图
     "screenshot": "http://f2.xiyunerp.com/face_access_logo.jpg",
     // 区块版本
-    "version-0.x": "1.0.0"
+    "version-0.x": "1.0.0",
     // 区块集合
     "blocks": {
       "BlockA": "https://github.com/xiyun-international/template/block/B",
