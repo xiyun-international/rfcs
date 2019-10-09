@@ -14,6 +14,19 @@
 // package.json | .xyrc
 {
   "blockConfig": {
+    // 区块名称
+    "name": "xy-antd-list",
+    // 区块标题
+    "title": "禧云通用列表页",
+    // 区块分类
+    "categories": [
+      "信息展示"
+    ],
+    // 区块截图
+    "screenshot": "http://f2.xiyunerp.com/face_access_logo.jpg",
+    // 区块版本
+    "version-0.x": "1.0.0"
+    // 区块集合
     "blocks": {
       "BlockA": "https://github.com/xiyun-international/template/block/B",
       "BlockB": "https://github.com/xiyun-international/template/block/B",
@@ -22,7 +35,7 @@
 }
 ```
 
-执行命令即可安装区块集。
+执行命令即可安装区块集合。
 
 ```bash
 xy block --collection 
