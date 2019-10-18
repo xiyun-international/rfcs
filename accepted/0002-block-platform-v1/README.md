@@ -137,20 +137,20 @@ UI 端的实现初步准备参考 Vue UI 的实现方式
   <thead>
     <tr>
       <th>任务</th>
-      <th width="100">负责人</th>
+      <th>负责人</th>
       <th>任务描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>核心方向把控</td>
-      <td width="100">吴佰清</td>
-      <td>把控工程的核心功能的发展趋势，相关技术的尝试性探索以便后续开发应用</td>
+      <td align="center">核心方向把控</td>
+      <td align="center" width="100">吴佰清</td>
+      <td align="center">把控工程的核心功能的发展趋势，相关技术的尝试性探索以便后续开发应用</td>
     </tr>
     <tr>
-      <td>block 相关工具</td>
-      <td>赵亮</td>
-      <td>
+      <td align="center">block 相关工具</td>
+      <td align="center">赵亮</td>
+      <td align="center">
         完善
         <code>block create</code> ，
         <code>block dev</code>，
@@ -158,29 +158,29 @@ UI 端的实现初步准备参考 Vue UI 的实现方式
       </td>
     </tr>
     <tr>
-      <td>业务组件平台 UI 端的插件机制</td>
-      <td>于月</td>
-      <td>业务组件平台 UI 端如何加入 xy 生态其他插件</td>
+      <td align="center">业务组件平台 UI 端的插件机制</td>
+      <td align="center">于月</td>
+      <td align="center">业务组件平台 UI 端如何加入 xy 生态其他插件</td>
     </tr>
     <tr>
-      <td>业务组件平台 Web 端</td>
-      <td>胡强强</td>
-      <td>开发业务组件平台 Web 端的相关页面</td>
+      <td align="center">业务组件平台 Web 端</td>
+      <td align="center">胡强强</td>
+      <td align="center">开发业务组件平台 Web 端的相关页面</td>
     </tr>
     <tr>
-      <td>业务组件平台 UI 端的 socket 通信</td>
-      <td>李明月</td>
-      <td>通过 Socket/IPC 让 UI 界面使用 xterminal 实时获取 server 端的区块安装情况</td>
+      <td align="center">业务组件平台 UI 端的 socket 通信</td>
+      <td align="center">李明月</td>
+      <td align="center">通过 Socket/IPC 让 UI 界面使用 xterminal 实时获取 server 端的区块安装情况</td>
     </tr>
     <tr>
-      <td>block 批量下载，图片上传</td>
-      <td>常文霞</td>
-      <td>如何在前端项目的 package.json 中做配置以便批量下载区块</td>
+      <td align="center">block 批量下载，图片上传</td>
+      <td align="center">常文霞</td>
+      <td align="center">如何在前端项目的 package.json 中做配置以便批量下载区块</td>
     </tr>
     <tr>
-      <td>业务组件平台 UI 端的基础实现</td>
-      <td>杨一帆</td>
-      <td>将区块的截图上传到七牛云的最佳实践业务组件平台 UI 端的整体技术实现方式，以及 graphQl 如何与之配合，完整基础的 UI 端功能</td>
+      <td align="center">业务组件平台 UI 端的基础实现</td>
+      <td align="center">杨一帆</td>
+      <td align="center">将区块的截图上传到七牛云的最佳实践业务组件平台 UI 端的整体技术实现方式，以及 graphQl 如何与之配合，完整基础的 UI 端功能</td>
     </tr>
   </tbody>
 </table>
