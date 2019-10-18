@@ -132,12 +132,6 @@ UI 端的实现初步准备参考 Vue UI 的实现方式
 
 
 ## 开发任务分工
-<style>
-table th:nth-of-type(2) {
-	width: 100px;
-}
-</style>
-
 
 
 | 任务                             | 负责人 | 任务描述                                                     |
