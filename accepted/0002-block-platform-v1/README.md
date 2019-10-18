@@ -173,13 +173,11 @@ cli端的实现初步准备参考 vue ui 的实现方式
 | -------------------------------------------------------------- | ------------------ | ---------------------- | ------------------------------------------------------- |
 | [阿里飞冰](https://ice.work/block)                             | 前端项目生成器     | 可视化的区块展示       | vue 支持不好                                            |
 | [bit](https://bit.dev/components)                              | 组件可视化展示     | 可调式，可视化组件列表 | 须发npm包                                               |
-| [Angular Console](https://angularconsole.com/)                 | 项目配置工具      |                        | 基于 Electron 导致打包文件过大                          |
+| [Angular Console](https://angularconsole.com/)                 | 项目配置工具       |                        | 基于 Electron 导致打包文件过大                          |
 | [Vue UI](https://cli.vuejs.org/zh/dev-guide/ui-info.html#logo) | 脚手架可视化工具  | Vue 官方产品           | 学习 API 成本过高，需要安装禧云生态以及 Vue UI 两套工具 |
 
 ### 调研结果
-
 1 目前没有能完全满足需求的产品，需要开发
-
 2 可借鉴的
 
 可视化组件列表，在线调试界面可借鉴 bit ，但是以具体需求为准
