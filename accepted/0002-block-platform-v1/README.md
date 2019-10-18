@@ -45,7 +45,7 @@
 
 1. 区块：业务级组件
 
-2. 业务组件平台：用于展示，下载 blocks 的平台。在 Web 端和 UI 端都会实现Web 端在后文会或被简称为 block-display
+2. 业务组件平台：用于展示，下载 blocks 的平台。在 Web 端和 UI 端都会实现 Web 端在后文会或被简称为 block-display
 
 
 
