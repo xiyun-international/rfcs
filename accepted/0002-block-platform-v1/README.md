@@ -8,42 +8,7 @@
 
 此外，我们在使用 xy 生态中的 CLI 工具时，虽然可以极大的提升开发效率，但是发现其体验其实可以更上一层楼。例如：我们在使用 xy generator 下载通用模板时，需要在命令行中追加多个参数来设置模板的类型。这些参数的顺序和格式稍稍有些复杂，导致使用者可能需要查阅文档使用。如果有一个 UI 界面能辅助我们使用这些命令，那么体验会更好，让我们更专注于业务开发。
 
-<table>
-<thead>
-<tr>
-<th>竞品</th>
-<th>功能</th>
-<th>优点</th>
-<th>缺点</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://ice.work/block" rel="nofollow">阿里飞冰</a></td>
-<td>前端项目生成器</td>
-<td>可视化的区块展示</td>
-<td>vue 支持不好</td>
-</tr>
-<tr>
-<td><a href="https://bit.dev/components" rel="nofollow">bit</a></td>
-<td>组件可视化展示</td>
-<td>可调式，可视化组件列表</td>
-<td>须发 npm 包</td>
-</tr>
-<tr>
-<td><a href="https://angularconsole.com/" rel="nofollow">Angular Console</a></td>
-<td>项目配置工具</td>
-<td></td>
-<td>基于 Electron 导致打包文件过大</td>
-</tr>
-<tr>
-<td><a href="https://cli.vuejs.org/zh/dev-guide/ui-info.html#logo" rel="nofollow">Vue UI</a></td>
-<td>脚手架可视化工具</td>
-<td>Vue 官方产品</td>
-<td>学习 API 成本过高，需要安装禧云生态以及 Vue UI 两套工具</td>
-</tr>
-</tbody>
-</table>
+
 
 ### 目前存在的问题
 
